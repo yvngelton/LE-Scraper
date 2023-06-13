@@ -1,6 +1,6 @@
 # LE-Scraper
 
-In the script above, you need to replace 'your_client_id', 'your_client_secret', and 'your_access_token' with your own LinkedIn API credentials.
+In the script, you need to replace 'your_client_id', 'your_client_secret', and 'your_access_token' with your own LinkedIn API credentials.
 
 To obtain the company_id, you can either search for the company on LinkedIn using the LinkedIn API's "Company Search" endpoint or manually retrieve it from the company's LinkedIn URL.
 
